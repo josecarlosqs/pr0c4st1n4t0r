@@ -1,0 +1,17 @@
+{
+  "name": "pr0c4st1n4t0r_cl13nt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ip": "^1.1.5",
+    "qrcode-terminal": "^0.11.0",
+    "robotjs": "^0.4.7",
+    "websocket": "^1.0.25"
+  }
+}
